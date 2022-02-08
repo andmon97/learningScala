@@ -1,0 +1,4 @@
+[debug] [learningscala-test] Classpath dependencies List()
+[debug] [learningscala-test] Dependencies from configurations List(learningscala)
+[debug] Bloop wrote the configuration of project 'learningscala-test' to '/home/andrea/learningScala/.bloop/learningscala-test.json'
+[success] Generated .bloop/learningscala-test.json
