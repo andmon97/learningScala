@@ -197,3 +197,17 @@ INFO: Unsupported notification method: $/setTrace
 2022.03.03 23:23:00 INFO  time: initialize in 2.34s
 2022.03.03 23:23:01 INFO  Attempting to connect to the build server...
 2022.03.03 23:23:00 INFO  skipping build import with status 'Installed'
+2022.03.03 23:23:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/andrea/learningScala/.metals/bsp.trace.json or /home/andrea/.cache/metals/bsp.trace.json
+2022.03.03 23:23:05 INFO  Attempting to connect to the build server...
+2022.03.03 23:23:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/andrea/learningScala/project/.metals/bsp.trace.json or /home/andrea/.cache/metals/bsp.trace.json
+2022.03.03 23:23:05 INFO  time: Connected to build server in 4.99s
+2022.03.03 23:23:05 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.03 23:23:06 INFO  time: Imported build in 0.14s
+2022.03.03 23:23:16 INFO  time: indexed workspace in 9.73s
+2022.03.03 23:23:25 INFO  shutting down Metals
+2022.03.03 23:23:25 INFO  Shut down connection with build server.
+2022.03.03 23:23:25 INFO  Shut down connection with build server.
+2022.03.19 19:28:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/andrea/learningScala/.metals/lsp.trace.json or /home/andrea/.cache/metals/lsp.trace.json
+2022.03.19 19:28:22 INFO  logging to file /home/andrea/learningScala/.metals/metals.log
+2022.03.19 19:28:22 INFO  Started: Metals version 0.11.2 in workspace '/home/andrea/learningScala' for client Visual Studio Code 1.65.2.
+2022.03.19 19:28:22 INFO  Parse release: 11
